@@ -3,3 +3,25 @@
     text-align: center;
     background-color: (7, 59, 58);
     }
+.text{
+    text-align: center;
+    width: 200px;
+}
+th, td {
+    border: 1px solid black;
+    border-radius: 30px;
+  }
+.font{
+        color: black;
+        font-family: courier;
+        font-size: 200%;
+     
+}
+.font2{
+    color: black;
+    font-size: 370%;
+
+}
+table {
+    border-spacing: 30px;
+  }
